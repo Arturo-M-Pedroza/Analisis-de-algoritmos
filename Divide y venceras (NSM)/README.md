@@ -12,7 +12,7 @@ El objetivo principal es analizar y visualizar la diferencia de rendimiento entr
 * **Medición de Rendimiento**: Mide y compara el tiempo de ejecución de ambos algoritmos en subconjuntos de datos de tamaño creciente.
 * **Visualización de Resultados**: Genera una gráfica comparativa del rendimiento utilizando `matplotlib` para una fácil interpretación de los resultados.
 
-## ⚙️ Requisitos
+## Requisitos
 
 Para ejecutar este proyecto, necesitarás tener instalado:
 
